@@ -1,4 +1,7 @@
 line change on branch3
 line changed in master
 hello
+first
+line changed in branch3
 hi
+
