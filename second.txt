@@ -1,4 +1,4 @@
 line change on branch3
-
+line changed in master
 hello
 hi
