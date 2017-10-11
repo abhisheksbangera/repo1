@@ -1,4 +1,4 @@
 monday
-tuesday on github third time
+tuesday on local
 wednesday on github
 thursday (github)
