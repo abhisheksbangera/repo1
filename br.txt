@@ -2,3 +2,4 @@ code in new branch file
 second line
 third line
 hello
+hello
